@@ -7,13 +7,13 @@ function Contactpage() {
     <div className='contactbackground'>
       <Container>
         <h2 className='contacthead'>Get In Touch</h2>
-        <p className='contactpara'> I’m currently searching for opportunities for a Administrative assistant and financial sales representative  role. <br /> If there is any vacancy my inbox is always open. Whether <br /> you have any further questions or just want to say hi, <br /> I’ll try my best to get back to you!</p>
+        <p className='contactpara'> I’m currently searching for opportunities for a software engineering  role. <br /> If there is any vacancy my inbox is always open. <br /> If you have any further questions you can inbox me anytime, <br /> I’ll get back to you as soon as possible!</p>
         <button
           className='contactbtn'
           onClick={() => {
             window.open("https://wa.me/+14378331398");
           }}
-        >Say Hello</button>
+        >Inbox Me Here</button>
         <span></span>
         <hr className='line' />
         <p className='copyright'>© Copyright 2023.  

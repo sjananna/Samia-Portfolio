@@ -8,7 +8,7 @@ function Skills() {
       <div className="skilltitle">
         <Row>
           <h2 className='text-center'>My Skills</h2>
-          <Col className='skillbox' md={7}>
+          <Col className='skillbox' md={9}>
           </Col>
           <col md={5}></col>
         </Row>
